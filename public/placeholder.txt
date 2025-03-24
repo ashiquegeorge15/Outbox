@@ -1,0 +1,11 @@
+To fix the missing logo files error, you need to add the following files to this directory:
+
+1. favicon.ico - A small icon for the browser tab (16x16 or 32x32 pixels)
+2. logo192.png - A 192x192 pixel logo for PWA icons
+3. logo512.png - A 512x512 pixel logo for PWA icons
+
+You can create these files using any image editing software, or download placeholder icons from sources like:
+- https://favicon.io/
+- https://www.flaticon.com/
+
+Once you add these files, the console errors about missing manifest icons will disappear. 
